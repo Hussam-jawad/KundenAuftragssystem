@@ -72,6 +72,8 @@ struct Auftrag
 // Dies ist nur ein Ausschnitt des Codes.
 // Der vollständige Code befindet sich im Projektordner.
 
+```
+
 ## **5️⃣ Screenshots**
 
 Die Screenshots veranschaulichen den vollständigen Ablauf des Programms:
@@ -80,7 +82,7 @@ Die Screenshots veranschaulichen den vollständigen Ablauf des Programms:
 ![menu](screenshots/menu.png)
 
 - **Kunde hinzufügen**  
-![kunde](screenshots/kunde.png)
+![kunde](screenshots/Kunde.png)
 
 - **Produkt hinzufügen**  
 ![produkt](screenshots/produkt.png)
